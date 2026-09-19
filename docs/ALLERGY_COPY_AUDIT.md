@@ -39,3 +39,9 @@ Does **not** replace external review in `docs/ALLERGY_REVIEWER_BRIEF.md`.
 **Docs + data layer: PASS** — no allergy jokes found in audited paths; glossary and group rules align with RISK_REGISTER A1.
 
 **Recommended next:** Keep sprite pass blocked until asset pipeline; no copy changes required from this audit.
+
+## Re-verification (2026-09-19)
+
+- All previous findings still valid
+- No new allergy-related copy added since 2026-07-13
+- Status: REVIEWED — no action needed
