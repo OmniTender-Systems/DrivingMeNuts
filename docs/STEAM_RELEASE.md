@@ -52,6 +52,7 @@ guards the game logic on every push.
 - [ ] 30–60s trailer (capture gameplay; show the legume gag, a day cycle, the
       roast loop, and an end-of-day report).
 - [ ] Short + long description (lift the elevator pitch from `docs/CONCEPT.md`).
+      Include the public FAQ: "Is this insensitive to allergies?" per A1 mitigation.
 - [ ] Tags: Cozy, Casual, Simulation, Management, Pixel Graphics, Singleplayer,
       Funny, Economy, Education.
 - [ ] System requirements (below).

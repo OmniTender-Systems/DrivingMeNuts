@@ -48,6 +48,10 @@ Discovery + educator feedback. Play in browser — use the in-game FEEDBACK butt
 (no copy-paste). Sign up on the title screen or PLAYTEST.md.
 Educator pilots + future Steam wishlist: see HQ docs/WAITLIST_AND_WISHLIST.md.
 
+FAQ
+Q: Is this insensitive to allergies?
+A: No. The game treats peanut allergies with complete seriousness. The in-game truck uses an honest-labeling model (stating plainly that due to shared equipment, nothing is peanut-free) and warmly refers allergic customers to a safe alternative nearby. There are zero allergy jokes.
+
 Also in the JimmyTheHat fleet: PixelSports hub, Yes Man, No Is a Complete Sentence.
 ```
 
